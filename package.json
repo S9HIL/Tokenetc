@@ -4,7 +4,7 @@
   "description": "A WhatsApp automation web app using Node.js and Baileys",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
